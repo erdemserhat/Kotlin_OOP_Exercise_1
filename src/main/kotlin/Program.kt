@@ -1,4 +1,8 @@
 fun main(){
+    /**
+     * Write a Kotlin object-oriented program that creates a base class Shape and derives subclasses Circle, Rectangle, and Triangle.
+     * Implement appropriate methods in each class and demonstrate polymorphism.
+     */
 
     abstract class Shape{
         abstract fun area():Double
